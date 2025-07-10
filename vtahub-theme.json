@@ -49,7 +49,7 @@
         "openmaptiles": {
             "type": "vector",
             "tiles": [
-                "https://daring-elegance-production.up.railway.app/tiles/mexico/{z}/{x}/{y}.pbf"
+                "https://daring-elegance-production.up.railway.app/tiles/vallarta/{z}/{x}/{y}.pbf"
             ],
             "minzoom": 0,
             "maxzoom": 14
