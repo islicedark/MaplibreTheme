@@ -48,7 +48,11 @@
     "sources": {
         "openmaptiles": {
             "type": "vector",
-            "url": "https://daring-elegance-production.up.railway.app/tiles/mexico/{z}/{x}/{y}.pbf"
+            "tiles": [
+                "https://daring-elegance-production.up.railway.app/tiles/mexico/{z}/{x}/{y}.pbf"
+            ],
+            "minzoom": 0,
+            "maxzoom": 14
         }
     },
     "sprite": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm",
